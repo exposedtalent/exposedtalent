@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tanishq Mor
-- 👀 I’m interested in Cloud Devlopment & Full Stack Devlopment 
+- 👋 Hi, I’m Tanishq Mor 
+- 👀 I’m interested in Cloud Development & Backend databases
 - 🌱 I’m currently preparing for Technical Interviews using leetcode
 - 📫 You can reach me throught [LinkedIn](https://www.linkedin.com/in/tanishq-mor/) or Discord (ExposedTalent#2065)
 
