@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanishq Mor 
 - 👀 I’m interested in Cloud Development & Backend databases
-- 🌱 I’m currently preparing for Technical Interviews using leetcode
+- 🌱 Currrently an SDE for [GoDaddy](https://www.godaddy.com/)
 - 📫 You can reach me throught [LinkedIn](https://www.linkedin.com/in/tanishq-mor/) or Email (tanishq.mor@gmail.com)
 
 # 📈 Statistics
